@@ -2,7 +2,7 @@
 
 Full Stack MERN application that allows users to create, edit, and delete memories; practice project via JavaScript Mastery on YouTube
 
-Server Copy folder is added as copy of server code which is not in this repository
+Copy Server folder is added as copy of server code which is not in this repository
 
 # Deployed at...
 
